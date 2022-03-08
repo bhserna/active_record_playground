@@ -1,3 +1,0 @@
-# You can create your seeds here...
-#
-# User.create(name: "Benito Serna")
