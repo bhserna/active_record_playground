@@ -1,7 +1,6 @@
 # Active Record Playground
 
-This is a simple template to be use to play with simple Active Record, when you
-don't need or don't want to create a full Rails app.
+This is a simple template to help you play with Active Record, when you don't need or don't want to create a full Rails app.
 
 It gives you a...
 
