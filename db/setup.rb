@@ -1,0 +1,5 @@
+require_relative "database_name"
+system "dropdb #{DATABASE_NAME}"
+system "createdb #{DATABASE_NAME}"
+system "ruby db/schema.rb"
+system "ruby db/seeds.rb"
