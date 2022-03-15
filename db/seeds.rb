@@ -1,5 +1,6 @@
 require_relative "config"
+require_relative "../lib/models"
 
-# You can create your seeds here...
+# Here you can create your seeds here using your models
 #
-# User.create(name: "Benito Serna")
+# Comment.create(body: "My comment")

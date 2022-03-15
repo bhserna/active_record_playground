@@ -1,4 +1,5 @@
 require_relative "config"
+require_relative "../lib/models"
 
 # class Post < ActiveRecord::Base
 #   has_many :comments
