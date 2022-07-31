@@ -12,8 +12,7 @@ GEM
       minitest (>= 5.1)
       tzinfo (~> 2.0)
     concurrent-ruby (1.1.9)
-    faker (2.20.0)
-      i18n (>= 1.8.11, < 2)
+    ffaker (2.21.0)
     i18n (1.8.11)
       concurrent-ruby (~> 1.0)
     minitest (5.15.0)
@@ -27,7 +26,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord
   activesupport
-  faker
+  ffaker
   pg
 
 BUNDLED WITH
